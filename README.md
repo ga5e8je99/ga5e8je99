@@ -1,13 +1,22 @@
 <div align="center">
 
-# 👨‍💻 Gamal Ahmed
-### **Full-Stack Software Engineer & System Architect**
-Building high-performance, scalable, and concurrency-safe web applications.
+<!-- Animated Header Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E,0D9488,14B8A6,06B6D4,3B82F6&height=220&section=header&text=Gamal%20Ahmed&fontSize=48&fontAlignY=36&fontColor=ffffff&desc=Lead%20Full-Stack%20Software%20Engineer%20%7C%20System%20Architect&descAlignY=58&descAlign=50&descSize=18&animation=twinkling" width="100%" alt="Gamal Ahmed Header" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-gamalahmed.dev-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://gamal-iota.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gamal--ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gamal-ahmed--)
-[![Email](https://img.shields.io/badge/Email-gamal.ahmed.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamal.ahmed.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ga5e8je99-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ga5e8je99)
+<!-- Animated Typing SVG -->
+<p align="center">
+  <a href="https://github.com/ga5e8je99">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1100&color=14B8A6&center=true&vCenter=true&multiline=false&width=650&height=48&lines=%F0%9F%9A%80+Lead+Full-Stack+Architect+%26+Engineer;%E2%9A%A1+Next.js+15%2C+React+19+%26+TypeScript+Specialist;%F0%9F%8F%A2+Architecting+ACID-Safe+Enterprise+ERP+Platforms;%F0%9F%9B%A1%EF%B8%8F+Concurrency-Safe+PostgreSQL+%26+Prisma+Transactions;%F0%9F%8C%8D+Building+High-Performance+3D+%26+AI+Web+Applications" alt="Typing SVG Animation" />
+  </a>
+</p>
+
+<!-- Social & Portfolio Badges -->
+<p align="center">
+  <a href="https://gamal-iota.vercel.app"><img src="https://img.shields.io/badge/Portfolio-gamalahmed.dev-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/gamal-ahmed--"><img src="https://img.shields.io/badge/LinkedIn-gamal--ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gamal.ahmed.dev@gmail.com"><img src="https://img.shields.io/badge/Email-gamal.ahmed.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/ga5e8je99"><img src="https://img.shields.io/badge/GitHub-ga5e8je99-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 <br/>
 
@@ -17,11 +26,25 @@ const gamalAhmed: SoftwareEngineer = {
   role: "Lead Full-Stack Engineer & System Architect",
   location: "Cairo, Egypt",
   education: "B.Sc. in Computer Science & Informatics (2025)",
-  focus: ["Enterprise ERP Systems", "Transactional Concurrency", "Distributed Systems", "AI Integrations"],
+  focus: ["Enterprise ERP Systems", "ACID Transactions", "Concurrency Control", "3D WebGL & AI"],
   stack: ["Next.js 15", "React 19", "TypeScript", "Prisma ORM", "PostgreSQL", "Node.js", "Tailwind CSS"],
-  status: "Open to Full-Time Engineering & High-Impact Contracts"
+  status: "Open to High-Impact Full-Time Engineering Roles & Enterprise Contracts"
 };
 ```
+
+</div>
+
+---
+
+## 🛠️ Animated Tech Stack & Tools
+
+<div align="center">
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,postgres,prisma,nodejs,express,mongodb,docker,git,vite,redux,threejs&theme=dark" alt="Animated Tech Stack Icons" />
+  </a>
+</p>
 
 </div>
 
@@ -182,53 +205,38 @@ flowchart TD
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🐍 Contribution Graph & Activity
 
 <div align="center">
 
-### Frontend & Core
-![Next.js](https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React 19](https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript (ES6+)](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+<!-- Animated Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ga5e8je99/ga5e8je99/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ga5e8je99/ga5e8je99/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ga5e8je99/ga5e8je99/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
-### Backend & Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL%2016-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma ORM](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Auth.js v5](https://img.shields.io/badge/Auth.js%20v5-black?style=for-the-badge&logo=auth0&logoColor=white)
+<br/>
 
-### Testing, DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<!-- Animated Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ga5e8je99&theme=tokyo-night&bg_color=070b14&color=14b8a6&line=06b6d4&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Wave" />
 
-</div>
+<br/>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
+<!-- GitHub Analytics Cards with Fire Animation -->
 <img src="https://github-readme-stats.vercel.app/api?username=ga5e8je99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070b14&title_color=14b8a6&icon_color=06b6d4&text_color=94a3b8" height="165" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ga5e8je99&layout=compact&theme=tokyonight&hide_border=true&bg_color=070b14&title_color=14b8a6&text_color=94a3b8" height="165" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ga5e8je99&theme=tokyonight&hide_border=true&background=070b14&ring=14b8a6&fire=06b6d4&currStreakLabel=14b8a6" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ga5e8je99&theme=tokyonight&hide_border=true&background=070b14&ring=14b8a6&fire=06b6d4&currStreakLabel=14b8a6" alt="Streak Stats with Fire Animation" />
 
 </div>
 
 ---
+
+<!-- Animated Footer Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E,0D9488,14B8A6,06B6D4&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 <div align="center">
   <b>Let's build something exceptional together!</b><br/>
